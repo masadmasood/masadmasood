@@ -7,7 +7,7 @@
 
 
 ## 📜 **About Me**
-🚀 Passionate **Web & Mobile App Developer** with expertise in **MERN Stack** and a deep curiosity for **AI & Machine Learning**.  
+🚀 Passionate **Web & Mobile App Developer** with expertise in **MERN Stack** and a deep curiosity for **AI & Machine Learning**.
 💡 I enjoy **developing high-performance applications** and **exploring new technologies** to solve real-world problems.  
 🔍 Currently, I'm **learning Python & Machine Learning** to expand my skills in AI-driven solutions.  
 
