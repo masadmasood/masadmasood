@@ -1,4 +1,4 @@
-<h1 align="center">Asad Masood</h1>
+<h1 align="center">Muhammad Asad Masood</h1>
 <h3 align="center">Full Stack Developer &nbsp;·&nbsp; React · Next.js · Node.js</h3>
 
 <p align="center">
@@ -34,23 +34,23 @@ Full Stack Developer with hands-on experience building production-grade web appl
 ## Experience
 
 **Full Stack Developer (Contract)** &nbsp;·&nbsp; NYC OTI — Worker Connect &nbsp;·&nbsp; *Jan 2026 – Apr 2026*
-> Live government workforce platform · ticket-based updates · role-aware screens · legacy React modernization
+- Live government workforce platform · ticket-based updates · role-aware screens · legacy React modernization
 
 **Full Stack Developer** &nbsp;·&nbsp; Minds Tek AI &nbsp;·&nbsp; *May 2025 – Jan 2026*
-> ERP-style modules · timesheets, contracts, dashboards · approval chains · reusable UI systems · API integration
+- ERP-style modules · timesheets, contracts, dashboards · approval chains · reusable UI systems · API integration
 
 **Full Stack Developer** &nbsp;·&nbsp; Softlinks, Islamabad &nbsp;·&nbsp; *Aug 2024 – Feb 2025*
-> React interfaces · REST API integration · on-site team delivery · production standards
+- React interfaces · REST API integration · on-site team delivery · production standards
 
 ---
 
 ## Projects
 
 **[VCCS — Virtual Career Counseling for Students](https://www.vccs.com.pk)**
-> Student counseling platform with onboarding flows, recommendation journeys, and consultation dashboards.
+- Student counseling platform with onboarding flows, recommendation journeys, and consultation dashboards.
 
 **Artus AI** &nbsp;·&nbsp; Minds Tek AI Product
-> AI-assisted SaaS product — onboarding, dashboard, and insights screens with API-connected flows.
+- AI-assisted SaaS product — onboarding, dashboard, and insights screens with API-connected flows.
 
 ---
 
