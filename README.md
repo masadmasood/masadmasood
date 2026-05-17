@@ -1,4 +1,4 @@
-<h1 align="center">Muhammad Asad Masood</h1>
+<h1 align="center">Asad Masood</h1>
 <h3 align="center">Full Stack Developer &nbsp;·&nbsp; React · Next.js · Node.js</h3>
 
 <p align="center">
