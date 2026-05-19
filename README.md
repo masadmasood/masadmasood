@@ -1,8 +1,8 @@
 <h1 align="center">Asad Masood</h1>
-<h3 align="center">Full Stack Developer &nbsp;·&nbsp; React · Next.js · Node.js</h3>
+<h3 align="center">React & Next.js Developer &nbsp;·&nbsp; Full Stack &nbsp;·&nbsp; Node.js</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1500&color=6E6E6E&center=true&vCenter=true&width=600&lines=Building+workflow-driven+web+applications;React+·+Next.js+·+Node.js+·+MongoDB;Government+·+SaaS+·+ERP+platforms;Clean+code.+Scalable+architecture.+Real+delivery." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1500&color=6E6E6E&center=true&vCenter=true&width=600&lines=Building+workflow-driven+web+applications;React+·+Next.js+·+TypeScript+·+Node.js;Government+·+SaaS+·+ERP+platforms;Clean+code.+Scalable+architecture.+Real+delivery." alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -27,19 +27,26 @@
 
 ## About
 
-Full Stack Developer with hands-on experience building production-grade web applications across **government, SaaS, and ERP-style platforms**. I specialize in React/Next.js frontends with Node.js backends — focused on clean architecture, role-based workflows, and API-connected product delivery.
+React & Next.js developer with hands-on experience delivering business systems, SaaS products, and workflow-driven platforms across **government, remote, and on-site environments**.
+
+Worked on a live US government workforce platform, ERP-style SaaS products for a Canadian AI company, and independently built **VCCS** — a live AI-powered career guidance platform for Pakistani students at [vccs.com.pk](https://vccs.com.pk).
+
+Currently pursuing **MS Software Engineering** at University of Chenab. Open to full-time remote roles and freelance projects.
 
 ---
 
 ## Experience
 
-**Full Stack Developer (Contract)** &nbsp;·&nbsp; NYC OTI — Worker Connect &nbsp;·&nbsp; *Jan 2026 – Apr 2026*
+**Frontend Engineer (Contract)** &nbsp;·&nbsp; NYC OTI — Worker Connect &nbsp;·&nbsp; *Jan 2026 – Apr 2026*
 - Live government workforce platform · ticket-based updates · role-aware screens · legacy React modernization
 
-**Full Stack Developer** &nbsp;·&nbsp; Minds Tek AI &nbsp;·&nbsp; *May 2025 – Jan 2026*
+**Full Stack Engineer** &nbsp;·&nbsp; Minds Tek AI &nbsp;·&nbsp; *Jul 2025 – Dec 2025*
 - ERP-style modules · timesheets, contracts, dashboards · approval chains · reusable UI systems · API integration
 
-**Full Stack Developer** &nbsp;·&nbsp; Softlinks, Islamabad &nbsp;·&nbsp; *Aug 2024 – Feb 2025*
+**Full Stack Engineer** &nbsp;·&nbsp; VCCS — Independent Product &nbsp;·&nbsp; *2024 – 2025*
+- Built & launched AI-powered career counseling platform · full ownership: frontend, backend, AI integration, testing · live at [vccs.com.pk](https://vccs.com.pk)
+
+**Frontend Developer** &nbsp;·&nbsp; Softlinks, Islamabad &nbsp;·&nbsp; *Aug 2024 – Feb 2025*
 - React interfaces · REST API integration · on-site team delivery · production standards
 
 ---
@@ -47,7 +54,7 @@ Full Stack Developer with hands-on experience building production-grade web appl
 ## Projects
 
 **[VCCS — Virtual Career Counseling for Students](https://www.vccs.com.pk)**
-- Student counseling platform with onboarding flows, recommendation journeys, and consultation dashboards.
+- AI-powered student guidance platform with aptitude testing, personalized degree recommendations, career roadmaps, and consultation dashboards.
 
 **Artus AI** &nbsp;·&nbsp; Minds Tek AI Product
 - AI-assisted SaaS product — onboarding, dashboard, and insights screens with API-connected flows.
@@ -60,6 +67,7 @@ Full Stack Developer with hands-on experience building production-grade web appl
 &nbsp;
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
